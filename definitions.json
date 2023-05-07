@@ -1,0 +1,14 @@
+{
+  "methods": {
+    "echo": {
+      "name": "Echo",
+      "arguments": [
+        {
+          "type": "text",
+          "name": "Input",
+          "placeholder": "Text"
+        }
+      ]
+    }
+  }
+}
